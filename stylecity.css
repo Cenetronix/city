@@ -1,0 +1,56 @@
+body{
+    display: flex;
+    justify-content: center;
+
+}
+.all{
+    width: 50%;
+   
+}
+
+.image{
+    justify-content: center;
+    width: 100%;
+    
+}
+
+.content{
+    position: relative;
+    top: -20px;
+    margin:auto;
+    width: 80%;
+    justify-content: center;
+    flex-direction:column ;
+    display: flex;
+    background-color: white;
+}
+
+.text{
+
+    text-align: center;
+}
+
+.learn {
+    
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+button{
+    padding: 20px 40px;
+}
+
+.line{
+    
+    margin: auto;
+    border: 1px solid black;
+    width: 30px;
+    
+}
+
+span{
+    margin-bottom: 20px;
+}
